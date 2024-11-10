@@ -26,4 +26,4 @@ This Python script scans all repositories in a specified GitHub organization for
 
 ## Usage
   ```bash
-  python3 trufflehog_scan.py -org <orgname>
+  python3 trufflehog-scan.py -org <orgname>
